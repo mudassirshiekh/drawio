@@ -5,6 +5,7 @@ draw.io, this project, is a configurable diagramming/whiteboarding visualization
 As well as running this project, we run a production-grade deployment of the diagramming interface at https://app.diagrams.net.
 
 License
+#By Mudassir Alam
 -----------------
 
 The source code authored by us in this repo is licensed under a modified Apache v2 license. This project is not an open source project as a result.
